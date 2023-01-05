@@ -1,2 +1,3 @@
-# jc-cli
-A cli tool for create vue2/3 and react project.
+# elapp-cli
+
+A cli tool for create electron, vue  and react projects.
